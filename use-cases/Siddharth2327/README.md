@@ -1,3 +1,7 @@
+> Built for the SuperDocs Round 2 engineering task.
+
+![Quarterly brief screenshot](./docs/screenshot.png)
+
 # Win/Loss Debrief & Quarterly Competitive Brief
 
 > **Setup note:** This repo includes an `howtorunlocally.md` file with the full setup and run instructions (environment variables, SuperDocs credentials, sample data, and the exact command sequence to reproduce the demo). Start there if you're trying to get this running locally.
